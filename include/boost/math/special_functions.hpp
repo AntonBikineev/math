@@ -60,5 +60,6 @@
 #include <boost/math/special_functions/next.hpp>
 #include <boost/math/special_functions/owens_t.hpp>
 #include <boost/math/special_functions/hankel.hpp>
+#include <boost/math/special_functions/hypergeometric_pfq.hpp>
 
 #endif // BOOST_MATH_SPECIAL_FUNCTIONS_HPP
